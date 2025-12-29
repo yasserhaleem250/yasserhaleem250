@@ -1,6 +1,16 @@
 # 💫 About Me:
-I graduated from the Faculty of Computer Science and I am currently studying the DevOps and DevSecOps tracks.<br>
+A quick learner and eager to learn DevOps Engineer, interested in automation and software life cycles and migrate from on premise to cloud; seeking for challenging position in a leading company to upgrade and develop my experience in a mutually beneficial relationship, believing that businesses can only compete through their ability to deliver applications and services at a high velocity.
 
+I have hands-on experience in:
+
+Scripting using Bash and Python
+Developing and designing CI/CD Pipelines using Jenkins, Gitlab and CircleCi.
+Automating infrastructure provisioning using Terraform and Cloudformation.
+Configuring infrastructure using Ansible.
+Monitoring the provisioned infrastructure and sending Slack messages and emails when the infrastructure fails using Prometheus.
+Containers orchestration using Kubernetes and helm to create manifests
+Cloud services providers (AWS, GCP) security, storage, networking
+Troubleshooting large-scale, highly performant distributed systems
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yasser 11) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yasser halem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasserhalem_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasserhalem) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yasserhalem) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@yasser abdelhaleem hamed abbdelghany) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yhalem16@gmail.com) 
